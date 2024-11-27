@@ -1,0 +1,2 @@
+# Lernprozess-CHAT-GPT
+ Lernprozess

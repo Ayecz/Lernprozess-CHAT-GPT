@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to right slateblue, lightblue, whitesmoke);
+    color: white;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    color:midnightblue;
+}
+
+
+
+img{
+    border: solid;
+    
+}
